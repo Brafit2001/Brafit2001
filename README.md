@@ -29,11 +29,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brafit2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brafit2001&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/brafit2001"> 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brafit2001&show_icons=true&theme=dark&include_all_commits=true&count_private=true&text_color=FFFFFF&icon_color=FF0000&bg_color=000000" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brafit2001&layout=compact&langs_count=8&theme=dark&text_color=FFFFFF&icon_color=FF0000&bg_color=000000" />
 </a>
 </p>
+
 
 ---
 
